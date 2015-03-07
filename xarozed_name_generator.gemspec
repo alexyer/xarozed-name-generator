@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = XarozedNameGenerator::VERSION
   spec.authors       = ["Olexander Yermakov"]
   spec.email         = ["mannavard1611@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Basic name generator based on Markov chains.}
+  spec.description   = %q{Basic name generator based on Markov chains.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
