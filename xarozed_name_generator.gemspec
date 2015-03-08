@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mannavard1611@gmail.com"]
   spec.summary       = %q{Basic name generator based on Markov chains.}
   spec.description   = %q{Basic name generator based on Markov chains.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/alexYer/xarozed-name-generator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
